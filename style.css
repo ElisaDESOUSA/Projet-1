@@ -1,5 +1,9 @@
+
 .onglets {
     display: flex;
     justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+    background-color: aqua;
 }
 
